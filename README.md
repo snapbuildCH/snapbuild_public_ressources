@@ -1,0 +1,2 @@
+# snapbuild_public_ressources
+snapbuild_public_ressources
